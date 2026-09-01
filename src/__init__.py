@@ -1,0 +1,2 @@
+"""ScaleTraj trajectory generation library."""
+
